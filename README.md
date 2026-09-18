@@ -20,7 +20,7 @@ The tested feature is a fictional Wheel of Fortune mechanic with the following a
 | File | Description |
 | --- | --- |
 | [test-plan.md](test-plan.md) | Test strategy, scope, assumptions, risks, and coverage approach |
-| [test-cases-en.md](test-cases.md) | Main English test case suite with 22 commercial-style test cases |
+| [test-cases.md](test-cases.md) | Main English test case suite with 22 commercial-style test cases |
 
 ## QA Areas Covered
 
