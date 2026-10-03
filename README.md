@@ -20,7 +20,7 @@ The tested feature is a fictional Wheel of Fortune mechanic with the following a
 | File | Description |
 | --- | --- |
 | [test-plan.md](test-plan.md) | Test strategy, scope, assumptions, risks, and coverage approach |
-| [test-cases.md](test-cases.md) | Main English test case suite with 22 commercial-style test cases |
+| [test-cases.md](test-cases.md) | Main English test case suite with 22 test cases |
 
 ## QA Areas Covered
 
@@ -38,13 +38,9 @@ The tested feature is a fictional Wheel of Fortune mechanic with the following a
 - Localization testing
 - UI state validation
 
-## Tools and Format
-
-This project is written in Markdown so it can be published directly as a GitHub repository. The test cases use a structured manual QA format suitable for portfolio review.
-
 ## Suggested Use
 
 For recruiters and hiring managers, start with:
 
 1. [test-plan.md](test-plan.md)
-2. [test-cases-en.md](test-cases-en.md)
+2. [test-cases-en.md](test-cases.md)
