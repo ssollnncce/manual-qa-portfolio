@@ -43,4 +43,4 @@ The tested feature is a fictional Wheel of Fortune mechanic with the following a
 For recruiters and hiring managers, start with:
 
 1. [test-plan.md](test-plan.md)
-2. [test-cases-en.md](test-cases.md)
+2. [test-cases.md](test-cases.md)
